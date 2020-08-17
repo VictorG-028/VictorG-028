@@ -1,11 +1,10 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<!--- <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png"> -->
 
 ## Victor Gabriel
-
-#### alola 👋
+<!--- comentário -->
+#### Olá 👋
 Sou estudante de ciências da Computação na UFRPE. :book: <br/>
-Sou fascinado por automatizar tarefas utilizando programação.
-
+<!--- Sou fascinado por automatizar tarefas utilizando programação. -->
 
 🌱 &nbsp; Ainda estou nos primeiros semestres da faculadde <br/>
 :books: &nbsp; Atualmente estou estudando e praticando POO com Java, JS, Kotlin e Python <br/>
