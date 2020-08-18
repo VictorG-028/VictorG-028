@@ -8,7 +8,7 @@ Sou estudante de ciências da Computação na UFRPE. :book: <br/>
 
 🌱 &nbsp; Ainda estou nos primeiros semestres da faculadde <br/>
 :books: &nbsp; Atualmente estou estudando e praticando POO com Java, JS, Kotlin e Python <br/>
-💬 &nbsp; Sobre mim: Curto tecnologias, games indie, difíceis ou enigmáticos e animes <br/>
+💬 &nbsp; Sobre mim: Curto tecnologias, games indie ou enigmáticos e animes <br/>
 🎯 Foco atual: 2020.3 e Maratona Behind the Code
 
 
