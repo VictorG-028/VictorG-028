@@ -3,7 +3,7 @@
 ## Victor Gabriel
 <!--- comentário -->
 #### Olá &nbsp; 👋
-Sou estudante de ciências da Computação na UFRPE &nbsp; :book: <br/>
+Sou estudante do 3º periodo de ciências da Computação na UFRPE &nbsp; :book: <br/>
 <!--- Sou fascinado por automatizar tarefas utilizando programação. -->
 
 🌱 &nbsp; Ainda estou nos primeiros semestres da faculadde <br/>
