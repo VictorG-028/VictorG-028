@@ -7,7 +7,7 @@
 <!--- Sou fascinado por automatizar tarefas utilizando programação. -->
 
 🌱 &nbsp; Sou estudante de ciências da Computação na UFRPE &nbsp; :book: <br/>
-:books: &nbsp; Atualmente estudando e praticando POO com JS e Python <br/>
+<!-- :books: &nbsp; Atualmente estudando e praticando POO com JS e Python <br/> -->
 💬 &nbsp; Sobre mim: Curto tecnologias, games indie ou enigmáticos e animes <br/>
 <!--- 🎯 &nbsp; Foco atual: -->
 
