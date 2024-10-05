@@ -10,7 +10,7 @@
 <!-- :books: &nbsp; Atualmente estudando e praticando POO com JS e Python <br/> -->
 💬 &nbsp; Sobre mim: Curto tecnologias, games indie ou enigmáticos, animes e tocar 🎹 <br/>
 <!--- 🎯 &nbsp; Foco atual: -->
-
+🎯 &nbsp; [Veja e baixe o meu currículo aqui](https://github.com/VictorG-028/VictorG-028/blob/master/CV%20de%20Victor%20Gabriel%20-%20canvaA4%20-%20foco%20Fullstack%20-%20Ingl%C3%AAs.pdf)
 
 :email: 
 &nbsp; &nbsp; 
