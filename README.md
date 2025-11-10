@@ -6,9 +6,10 @@
 
 <!--- Emojis: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
-🌱 &nbsp; Sou estudante de ciências da Computação na UFRPE &nbsp; :book: <br/>
+🪴 &nbsp; Sou Engenheiro de Software Fullstack (Front,back,IaC) em treinamento com Python/TS/Java &nbsp; :book: <br/>
+<!-- 🌱 &nbsp; Sou estudante de ciências da Computação na UFRPE &nbsp; :book: <br/> -->
 <!-- :books: &nbsp; Atualmente estudando e praticando POO com JS e Python <br/> -->
-💬 &nbsp; Sobre mim: Curto tecnologias, games indie ou enigmáticos, animes e tocar 🎹 <br/>
+💬 &nbsp; Sobre mim: Curto tecnologias, discutir soluções para problemas, games indie ou enigmáticos, animes e tocar 🎹 <br/>
 <!--- 🎯 &nbsp; Foco atual: -->
 🎯 &nbsp; [Veja e baixe o meu currículo aqui](https://github.com/VictorG-028/VictorG-028/blob/master/CV%20de%20Victor%20Gabriel%20-%20canvaA4%20-%20foco%20Fullstack%20-%20Ingl%C3%AAs.pdf)
 
